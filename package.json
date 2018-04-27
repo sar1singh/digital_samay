@@ -1,0 +1,14 @@
+{
+  "name": "digital_samay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "http-server -a localhost -p 8000 -c-1 ./app"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
