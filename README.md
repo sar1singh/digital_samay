@@ -1,8 +1,6 @@
 # digital_samay
 
-Dependecies:
--> NodeJS
--> NPM
+Dependecies: NodeJS and NPM
 
 #Instructions to run application in local server.
 
