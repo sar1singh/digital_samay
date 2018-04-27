@@ -576,7 +576,7 @@ b.fa.fa-caret-right {
 
 .banner_form_agileits input[type="search"],
 .banner_form_agileits input[type="submit"] {
-	width: 43%;
+	width: 80%;
 	color: #777;
 	float: left;
 	background: none;
@@ -611,7 +611,7 @@ b.fa.fa-caret-right {
 	color: #fff;
 	font-weight: 600;
 	font-size: 1.2em;
-	padding: 0.58em 1em;
+	padding: 0.58em 0em;
 }
 
 .banner_form_agileits input[type="submit"]:hover {
@@ -4164,7 +4164,7 @@ ul.social-icons3.two li a {
 		letter-spacing: 2px;
 	}
 	.banner_form_agileits input[type="search"], .banner_form_agileits input[type="submit"] {
-       width: 37%;
+       width: 74%;
 	}
 	.banner_form_agileits input[type="submit"] {
 		width: 26%;
@@ -4301,7 +4301,7 @@ ul.social-icons3.two li a {
 		padding-top: 4em;
 	}
 	.banner_form_agileits input[type="search"], .banner_form_agileits input[type="submit"] {
-		width: 33%;
+		width: 70%;
 	}
 	.banner_form_agileits input[type="submit"] {
 		width: 30%;
@@ -4390,7 +4390,7 @@ ul.social-icons3.two li a {
 		letter-spacing: 2px;
 	}
 	.banner_form_agileits input[type="search"], .banner_form_agileits input[type="submit"] {
-		width: 28%;
+		width: 66%;
 	}
 	.banner_form_agileits input[type="submit"] {
 		width: 34%;
